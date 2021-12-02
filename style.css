@@ -386,7 +386,7 @@ header span svg{
 /* MOBILES */
 @media (max-width: 420px){
     .show{
-        width: 75%;
+        width: 68%;
         animation-name: show;
         animation-duration: 0.4s;
         animation-timing-function: ease-in;
