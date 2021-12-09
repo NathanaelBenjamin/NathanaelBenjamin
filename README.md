@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend Development.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me 
-Facebook - Nathanael Benjamin
+Facebook - Nathanael Benjamin<br>
 Instagram - @ambnathanaelbenjamin
 
 <!---
