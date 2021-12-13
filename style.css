@@ -37,6 +37,7 @@ font-size: 0.9rem;
 .navbar ul{
     text-decoration: none;
     margin-top: 1.4rem;
+    list-style: none;
 }
 
 .navbar ul li{
