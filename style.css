@@ -284,6 +284,10 @@ header span svg{
         height: 39%;
         list-style: none;
     }
+    
+    .show ul li{
+        list-style: none;
+    }
 
     .show li a{
         padding: 0.5rem 0.4rem;
