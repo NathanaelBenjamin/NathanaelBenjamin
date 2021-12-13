@@ -282,7 +282,7 @@ header span svg{
         align-items: flex-end;
         flex-direction: column;
         height: 39%;
-        /* list-style: none; */
+        list-style: none;
     }
 
     .show li a{
